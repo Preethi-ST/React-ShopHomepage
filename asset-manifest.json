@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/React-ShopHomepage/static/css/main.a76a7fb0.chunk.css",
-    "main.js": "/React-ShopHomepage/static/js/main.cbe2667d.chunk.js",
-    "main.js.map": "/React-ShopHomepage/static/js/main.cbe2667d.chunk.js.map",
-    "runtime-main.js": "/React-ShopHomepage/static/js/runtime-main.356f79d3.js",
-    "runtime-main.js.map": "/React-ShopHomepage/static/js/runtime-main.356f79d3.js.map",
-    "static/js/2.3e27d598.chunk.js": "/React-ShopHomepage/static/js/2.3e27d598.chunk.js",
-    "static/js/2.3e27d598.chunk.js.map": "/React-ShopHomepage/static/js/2.3e27d598.chunk.js.map",
-    "index.html": "/React-ShopHomepage/index.html",
-    "static/css/main.a76a7fb0.chunk.css.map": "/React-ShopHomepage/static/css/main.a76a7fb0.chunk.css.map",
-    "static/js/2.3e27d598.chunk.js.LICENSE.txt": "/React-ShopHomepage/static/js/2.3e27d598.chunk.js.LICENSE.txt",
-    "static/media/StyleLogo.3d2762f2.png": "/React-ShopHomepage/static/media/StyleLogo.3d2762f2.png",
-    "static/media/shooping.b8f6f9fc.jpg": "/React-ShopHomepage/static/media/shooping.b8f6f9fc.jpg",
-    "static/media/shooping1.4ec341e0.jpg": "/React-ShopHomepage/static/media/shooping1.4ec341e0.jpg",
-    "static/media/shooping2.4739de0f.jpg": "/React-ShopHomepage/static/media/shooping2.4739de0f.jpg"
+    "main.css": "//Preethi-ST.github.io/React-ShopHomepage/static/css/main.79d37b88.chunk.css",
+    "main.js": "//Preethi-ST.github.io/React-ShopHomepage/static/js/main.e501fc00.chunk.js",
+    "main.js.map": "//Preethi-ST.github.io/React-ShopHomepage/static/js/main.e501fc00.chunk.js.map",
+    "runtime-main.js": "//Preethi-ST.github.io/React-ShopHomepage/static/js/runtime-main.599ea043.js",
+    "runtime-main.js.map": "//Preethi-ST.github.io/React-ShopHomepage/static/js/runtime-main.599ea043.js.map",
+    "static/js/2.a7d00363.chunk.js": "//Preethi-ST.github.io/React-ShopHomepage/static/js/2.a7d00363.chunk.js",
+    "static/js/2.a7d00363.chunk.js.map": "//Preethi-ST.github.io/React-ShopHomepage/static/js/2.a7d00363.chunk.js.map",
+    "index.html": "//Preethi-ST.github.io/React-ShopHomepage/index.html",
+    "static/css/main.79d37b88.chunk.css.map": "//Preethi-ST.github.io/React-ShopHomepage/static/css/main.79d37b88.chunk.css.map",
+    "static/js/2.a7d00363.chunk.js.LICENSE.txt": "//Preethi-ST.github.io/React-ShopHomepage/static/js/2.a7d00363.chunk.js.LICENSE.txt",
+    "static/media/StyleLogo.3d2762f2.png": "//Preethi-ST.github.io/React-ShopHomepage/static/media/StyleLogo.3d2762f2.png",
+    "static/media/shooping.b8f6f9fc.jpg": "//Preethi-ST.github.io/React-ShopHomepage/static/media/shooping.b8f6f9fc.jpg",
+    "static/media/shooping1.4ec341e0.jpg": "//Preethi-ST.github.io/React-ShopHomepage/static/media/shooping1.4ec341e0.jpg",
+    "static/media/shooping2.4739de0f.jpg": "//Preethi-ST.github.io/React-ShopHomepage/static/media/shooping2.4739de0f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.356f79d3.js",
-    "static/js/2.3e27d598.chunk.js",
-    "static/css/main.a76a7fb0.chunk.css",
-    "static/js/main.cbe2667d.chunk.js"
+    "static/js/runtime-main.599ea043.js",
+    "static/js/2.a7d00363.chunk.js",
+    "static/css/main.79d37b88.chunk.css",
+    "static/js/main.e501fc00.chunk.js"
   ]
 }
