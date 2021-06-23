@@ -1,0 +1,69 @@
+body {
+  padding-top: 100px;
+}
+.brand-img{
+  width : 200px;
+  height : 70px;
+}
+.nav-link{
+  font-weight: bold;
+ 
+  font-size: 1.5rem;
+}
+.nav-link a{
+  color:hotpink;
+}
+.items_added{
+  /* border-radius: 50%;
+  width: 15px;
+  height: 15px;
+
+  background: #17a2b8;
+   border: 3px solid #17a2b8; 
+  color: #000;
+  text-align: center;
+  font: 5px Arial, sans-serif; */
+  border: 3px solid #17a2b8;
+  border-radius: 50%;
+  color: white;
+  text-align: center;
+  background: #17a2b8;
+} 
+.jumbotron{
+
+  background-color: rgb(10, 1, 1);
+}
+.jumbotron-image {
+   background-position: center center; 
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.all-products{
+  display : flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.card img{
+  margin: auto;
+  width: 100%;
+  height: 20vw;
+  object-fit:contain;
+}
+
+.card{
+  min-height: 100%;
+}
+
+.fill-star{
+  color : rgb(240, 182, 76);
+}
+.footer{
+  color:white;
+  background-color: black;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
