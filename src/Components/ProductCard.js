@@ -17,11 +17,14 @@ function ProductCard({product,cart,setCart,rating}) {
 
         
     }
+    /************************************************************************** Display Rating ************************************************************************/
     const showRating = (rating) => {
         let row = [];
+        //fill star
         for(let i=0;i<rating;i++){
             row.push(<span className="fill-star" key={i}><i class="fas fa-star"></i></span>)
         }
+        //outline star
         for(let i=rating;i<5;i++){
             row.push(<span className="fill-star" key={i}><i class="fal fa-star"></i></span>)
         }
